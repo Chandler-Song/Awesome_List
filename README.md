@@ -9,3 +9,5 @@
 [iOS_CN](https://github.com/jobbole/awesome-ios-cn)<br/>
 [Android](https://github.com/JStumpp/awesome-android)<br/>
 
+## 集锦
+[Github新项目集锦](https://github.com/GitHubDaily/GitHubDaily)
