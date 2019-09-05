@@ -11,4 +11,5 @@
 [Android](https://github.com/JStumpp/awesome-android)<br/>
 
 ## 集锦
-[Github新项目集锦](https://github.com/GitHubDaily/GitHubDaily)
+[Github新项目集锦](https://github.com/GitHubDaily/GitHubDaily)<br/>
+[Awesome_Emails](https://github.com/jonathandion/awesome-emails)<br/>
